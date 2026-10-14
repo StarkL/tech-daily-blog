@@ -119,6 +119,19 @@ ${sidebarItems}
     footer: {
       message: 'Powered by Horizon & VitePress',
     },
+
+    giscus: {
+      repo: 'StarkL/tech-daily-blog',
+      repoId: 'R_kgDOTtHrIA',
+      category: 'Announcements',
+      categoryId: 'DIC_kwDOTtHrIM4DIU0_',
+      mapping: 'pathname',
+      strict: '0',
+      reactionsEnabled: '1',
+      emitMetadata: '0',
+      inputPosition: 'bottom',
+      lang: 'zh-CN',
+    },
   },
 })
 `

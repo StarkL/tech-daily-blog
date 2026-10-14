@@ -22,5 +22,8 @@
   "type": "module",
   "devDependencies": {
     "vitepress": "2.0.0-alpha.18"
+  },
+  "dependencies": {
+    "@giscus/vue": "^3.1.1"
   }
 }
